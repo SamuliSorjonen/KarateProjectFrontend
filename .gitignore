@@ -18,11 +18,11 @@
 .env.test.local
 .env.production.local
 .idea
-background.jpg
-bonzai.jpg
-darkkarate.jpg
-karate.jpg
-karategirl.png
+/public/background.jpg
+/public/bonzai.jpg
+/public/darkkarate.jpg
+/public/karate.jpg
+/public/karategirl.png
 
 npm-debug.log*
 yarn-debug.log*
