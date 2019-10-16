@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Backend link: https://github.com/SamuliSorjonen/karate.git
+Backend link: https://github.com/SamuliSorjonen/KarateProjectBackend
