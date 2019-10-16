@@ -11,7 +11,7 @@ class OneStyle extends Component {
         return (
 
                 <Card style={{ width: '18rem', padding: '10px', margin:'10px' }}>
-                    <Card.Img variant="top" src="karate.jpg" />
+                    <Card.Img variant="top" src="/pictures/karate.jpg" />
                     <Card.Body>
                         <Card.Title>{this.state.karatestyle.name}</Card.Title>
                         <Card.Text>

@@ -11,7 +11,7 @@ class Frontpage extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="karategirl.png"
+                        src="/pictures/karategirl.png"
                         alt="First slide"
                     />
                     <Carousel.Caption>
@@ -22,7 +22,7 @@ class Frontpage extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="darkkarate.jpg"
+                        src="pictures/darkkarate.jpg"
                         alt="Second slide"
                     />
 

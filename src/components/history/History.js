@@ -13,7 +13,7 @@ class History extends Component {
 }
 
 const frame = {
-    backgroundImage: "url(" + "bonzai.jpg"+")",
+    backgroundImage: "url(" + "/pictures/bonzai.jpg"+")",
     backgroundPosition: 'center',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',

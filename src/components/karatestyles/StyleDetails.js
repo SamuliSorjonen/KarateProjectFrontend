@@ -36,7 +36,7 @@ class StyleDetails extends Component {
                         width={64}
                         height={64}
                         className="mr-3"
-                        src="../karate.jpg"
+                        src="../pictures/karate.jpg"
                         alt="Generic placeholder"
                     />
                     <Media.Body>
@@ -50,7 +50,7 @@ class StyleDetails extends Component {
                         width={64}
                         height={64}
                         className="mr-3"
-                        src="../karate.jpg"
+                        src="../pictures/karate.jpg"
                         alt="Generic placeholder"
                     />
                     <Media.Body>

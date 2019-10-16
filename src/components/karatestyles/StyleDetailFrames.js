@@ -11,7 +11,7 @@ class StyleDetailFrames extends Component {
     }
 }
 const frames = {
-    backgroundImage: "url(" + "../background.jpg" + ")",
+    backgroundImage: "url(" + "../pictures/background.jpg" + ")",
     backgroundPosition: 'center',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
